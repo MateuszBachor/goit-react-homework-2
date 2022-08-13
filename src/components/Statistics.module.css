@@ -1,0 +1,13 @@
+.statistics{
+    display: flex;
+    flex-direction: column;
+}
+.btnContainer{
+    display: flex;
+}
+.feedback{
+    display: block;
+}
+.hidd{
+    display: none;
+}
