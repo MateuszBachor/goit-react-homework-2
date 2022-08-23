@@ -6,7 +6,7 @@ export class Section extends React.Component {
     const { title, children } = this.props;
     return (
       <div>
-        <h3>{title}</h3>
+        <h3 className={styles.sectionTitle}>{title}</h3>
         {children}
       </div>
     );
