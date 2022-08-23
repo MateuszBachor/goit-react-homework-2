@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { Statistics } from 'components/Statistics';
+import { App } from 'components/App/App';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Statistics />
+    <App />
   </React.StrictMode>
 );

@@ -1,7 +1,4 @@
-.statistics{
-    display: flex;
-    flex-direction: column;
-}
+
 .btnContainer{
     display: flex;
 }

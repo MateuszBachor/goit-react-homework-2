@@ -1,0 +1,16 @@
+
+.statisticsBtn{
+    margin-left: 18px;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    width: 78px;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 4px 5px 10px black;
+
+
+}
+.statisticsBtn:hover{
+    background-color: rgb(251, 245, 245);
+    box-shadow: 4px 8px 10px black;
+}
