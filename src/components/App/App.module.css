@@ -8,3 +8,11 @@
 .hidd{
     display: none;
 }
+:global(body) {
+    display: flex;
+    justify-content: center;
+    
+  }
+  :global(#root){
+font-family: Arial, Helvetica, sans-serif;
+  }

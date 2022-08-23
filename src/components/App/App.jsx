@@ -3,6 +3,7 @@ import Statistics from 'components/Statistics/Statistics';
 import Section from 'components/Section/Section';
 import Notification from 'components/Notification/Notification';
 import styles from 'components/Statistics/Statistics.module.css';
+
 import React from 'react';
 
 export class App extends React.Component {
