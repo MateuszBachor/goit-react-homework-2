@@ -26,7 +26,7 @@ export class App extends React.Component {
     const { good, neutral, bad } = this.state;
     const options = Object.keys(this.state);
     return (
-      <div>
+      <div className={styles.whatever}>
         <Section title="Please leave feedback">
           <FeedbackOptions options={options} onLeaveFeedback={this.increment} />
         </Section>
